@@ -1,0 +1,2 @@
+2019-Feb-17 10:07:45 AM [Forwarding screenshot on session ba414f025d71c9d1289606e3ab2f12ef to remote] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {}->http://localhost:3699] can be kept alive indefinitely
+2019-Feb-17 10:07:45 AM [Forwarding screenshot on session ba414f025d71c9d1289606e3ab2f12ef to remote] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {}->http://localhost:3699][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
